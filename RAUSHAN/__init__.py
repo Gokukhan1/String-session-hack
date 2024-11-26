@@ -17,7 +17,7 @@ START_PIC = Config.START_PIC
 
 
 if not START_PIC:
-    START_PIC = "https://telegra.ph/file/c53d9a7df9dbaa5f4db05.jpg"
+    START_PIC = "https://files.catbox.moe/ktoo78.jpg"
 
 #rich
 LOG = Console()
@@ -39,7 +39,7 @@ async def RAUSHAN():
     header = Table(show_header=True, header_style="bold green")
     header.add_column(LOG_TEXT)
     LOG.print(header)
-    LOG.print(f"[bold cyan]𝐓𝐄𝐀𝐌 𝐏𝐔𝐑𝐕𝐈 𝐁𝐎𝐓𝐒")
+    LOG.print(f"[bold cyan]TEAM PAIRATE BOTS")
     LOG.print("[bold yellow]𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭.............")
     await app.start()    
     
