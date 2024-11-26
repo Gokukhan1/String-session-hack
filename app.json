@@ -1,15 +1,15 @@
 {
-    "name": "𝗔𝗟𝗣𝗛𝗔 𝗛𝗔𝗖𝗞 𝗕𝗢𝗧",
-    "description": "𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗠𝗔𝗞𝗘 𝗕𝗬 𝗧𝗘𝗔𝗠 𝗣𝗨𝗥𝗩𝗜 𝗕𝗢𝗧𝗦",
-    "logo": "",
+    "name": " 𝗛𝗔𝗖𝗞 𝗕𝗢𝗧",
+    "description": "THIS BOT MAKE BY PAIRATE BOTS",
+    "logo": "https://files.catbox.moe/ktoo78.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "banall"
     ],
-    "website": "https://t.me/ll_ALPHA_BABY_lll",
-    "repository": "https://github.com/TEAMPURVI/STRING_HACK",
-    "success_url": "https://t.me/ll_ALPHA_BABY_lll",
+    "website": "https://t.me/xeno_kakarot",
+    "repository": "https://github.com/Gokukhan1/String-session-hack",
+    "success_url": "https://t.me/xeno_kakarot",
     "env": {
         "API_ID": {
             "description": "your API_ID ",
